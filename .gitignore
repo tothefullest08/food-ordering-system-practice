@@ -3,4 +3,3 @@
 .target
 /infrastructure/docker-compose-test/volumes/*
 /**/target/
-/**/resources/
